@@ -1,14 +1,23 @@
-from nick import create_nick
 
-with open('users.csv') as userfile:
-    # read the lines
-    for row in userfile.readlines():
-        user = row.strip().split(',')
+        from nick.py import create_username
 
-        firstname = user[0]
-        lastname = user [1]
+        # open the file
+        with open('users.csv') as usersfile:
 
-        nickname = create_nick(firstname, lastname)
+            # read lines
+            for line in usersfile.readlines():
+                # for every row split on
+                user = line.strip().split(',')
 
-        print nickname
+                # put first value in firstname and the seconds value in
+                firstname = user[0]
+                lastname = user[1]
+                birthday = user[2]
+                number = randint(1, 21)
+
+                username = create_username(firstname, lastname, number)
+
+                # print out firstname, lastname and username
+                print firstname, lastname, username
+
 
