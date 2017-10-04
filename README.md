@@ -5,7 +5,7 @@ Den f?rsta ?r users.csv, 09.19.py och herman.py
 
 ## anv?ndarnamn
 
-Min namngivnigs algoritm och plicy ?r att man tar dem 3 f?rsta bokst?verna av f?rnamnet och dem 2 sista bokst?verna av efternamnet och sedan l?gger man till en slumpm?ssig siffra efter namnet f?r att
+Min namngivnigs algoritm och policy ?r att man tar dem 3 f?rsta bokst?verna av f?rnamnet och dem 2 sista bokst?verna av efternamnet och sedan l?gger man till en slumpm?ssig siffra efter namnet f?r att
 minsta risken att f? duplicationer i algoritmen.
 
 ex
