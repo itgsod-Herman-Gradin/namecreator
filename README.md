@@ -1,12 +1,12 @@
 # Namecreator
 
-?r ett program som tar anv?ndare och f?rkortar deras namn efter en namngivnings policy. Programmet kr?ver 3 olika filer f?r att fungera,
-Den f?rsta filen ?r users.csv, addusers.py och herman.py
+är ett program som tar användare och förkortar deras namn efter en namngivnings policy. Programmet kräver 3 olika filer för att fungera,
+Den första filen är users.csv, addusers.py och herman.py
 
-## anv?ndarnamn
+## användarnamn
 
-Min namngivnigs algoritm och policy ?r att man tar dem 3 f?rsta bokst?verna av f?rnamnet och dem 2 sista bokst?verna av efternamnet och sedan l?gger nman till en slumpm?ssig siffra f?r att
-minsta risken att f?r att inte f? dupplicationer i algoritmen
+Min namngivnigs algoritm och policy är att man tar dem 3 fÖrsta bokst?verna av förnamnet och dem 2 sista bokst?verna av efternamnet och sedan lägger nman till en slumpmässig siffra för att
+minsta risken att för att inte få dupplicationer i algoritmen
 
 ex
 
