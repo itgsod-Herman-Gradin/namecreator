@@ -1,7 +1,7 @@
 # Namecreator
 
 är ett program som tar användare och förkortar deras namn efter en namngivnings policy. Programmet kräver 3 olika filer för att fungera,
-Den första filen är users.csv, addusers.py och herman.py
+Den första filen är users.csv, addusers.py och nick.py
 
 ## användarnamn
 
